@@ -48,6 +48,7 @@ const Nav = styled.nav`
     align-items: center;
     padding: 0 36px;
     align-items: center;
+    overflow-x: hidden;
     /* justify-content: space-between; */
     
     `
